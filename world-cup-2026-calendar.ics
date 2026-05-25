@@ -1,0 +1,1456 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WorldCup2026Schedules.com//Schedule v2//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:World Cup 2026 - All Matches
+X-WR-CALDESC:Full 104-match World Cup 2026 schedule from
+ WorldCup2026Schedules.com
+BEGIN:VEVENT
+UID:d72f81b6ccf35785@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260611T130000
+DTEND;TZID=America/Mexico_City:20260611T150000
+SUMMARY:M001: Mexico vs South Africa
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Stage: Group Stage | Group: A | ET: 3:00 PM | Venue time: 1:00
+ PM | Venue: Estadio Azteca\, Mexico City\, Mexico | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:36df19ee32fb141d@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260611T200000
+DTEND;TZID=America/Mexico_City:20260611T220000
+SUMMARY:M002: Korea Republic vs Czechia
+LOCATION:Estadio Akron\, Guadalajara\, Mexico
+DESCRIPTION:Stage: Group Stage | Group: A | ET: 10:00 PM | Venue time:
+ 8:00 PM | Venue: Estadio Akron\, Guadalajara\, Mexico | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:a8f921475b5cd0e6@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Toronto:20260612T150000
+DTEND;TZID=America/Toronto:20260612T170000
+SUMMARY:M003: Canada vs Bosnia and Herzegovina
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Stage: Group Stage | Group: B | ET: 3:00 PM | Venue time: 3:00
+ PM | Venue: BMO Field\, Toronto\, Canada | Schedule details may change as
+ official match information is updated. | Check WorldCup2026Schedules.com
+ for the latest printable schedules and calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:1441ddb8fc6bace5@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260612T180000
+DTEND;TZID=America/Los_Angeles:20260612T200000
+SUMMARY:M004: United States vs Paraguay
+LOCATION:SoFi Stadium\, Los Angeles\, United States
+DESCRIPTION:Stage: Group Stage | Group: D | ET: 9:00 PM | Venue time: 6:00
+ PM | Venue: SoFi Stadium\, Los Angeles\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:caf5aafa86c7d1d4@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260613T210000
+DTEND;TZID=America/New_York:20260613T230000
+SUMMARY:M005: Haiti vs Scotland
+LOCATION:Gillette Stadium\, Boston\, United States
+DESCRIPTION:Stage: Group Stage | Group: C | ET: 9:00 PM | Venue time: 9:00
+ PM | Venue: Gillette Stadium\, Boston\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d2e0b6e0e259b4@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Vancouver:20260613T210000
+DTEND;TZID=America/Vancouver:20260613T230000
+SUMMARY:M006: Australia vs Türkiye
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Stage: Group Stage | Group: D | ET: 12:00 AM | Venue time:
+ 9:00 PM | Venue: BC Place\, Vancouver\, Canada | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:6e4cba672e36c399@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260613T180000
+DTEND;TZID=America/New_York:20260613T200000
+SUMMARY:M007: Brazil vs Morocco
+LOCATION:MetLife Stadium\, New York/New Jersey\, United States
+DESCRIPTION:Stage: Group Stage | Group: C | ET: 6:00 PM | Venue time: 6:00
+ PM | Venue: MetLife Stadium\, New York/New Jersey\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:5a70d65f90e1a46b@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260613T120000
+DTEND;TZID=America/Los_Angeles:20260613T140000
+SUMMARY:M008: Qatar vs Switzerland
+LOCATION:Levi's Stadium\, San Francisco Bay Area\, United States
+DESCRIPTION:Stage: Group Stage | Group: B | ET: 3:00 PM | Venue time:
+ 12:00 PM | Venue: Levi's Stadium\, San Francisco Bay Area\, United States
+ | Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:0abe2cf64148e065@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260614T190000
+DTEND;TZID=America/New_York:20260614T210000
+SUMMARY:M009: Côte d’Ivoire vs Ecuador
+LOCATION:Lincoln Financial Field\, Philadelphia\, United States
+DESCRIPTION:Stage: Group Stage | Group: E | ET: 7:00 PM | Venue time: 7:00
+ PM | Venue: Lincoln Financial Field\, Philadelphia\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:00c91d464285b0a8@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260614T120000
+DTEND;TZID=America/Chicago:20260614T140000
+SUMMARY:M010: Germany vs Curaçao
+LOCATION:NRG Stadium\, Houston\, United States
+DESCRIPTION:Stage: Group Stage | Group: E | ET: 1:00 PM | Venue time:
+ 12:00 PM | Venue: NRG Stadium\, Houston\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:b8160d4039c0f8ba@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260614T150000
+DTEND;TZID=America/Chicago:20260614T170000
+SUMMARY:M011: Netherlands vs Japan
+LOCATION:AT&T Stadium\, Dallas\, United States
+DESCRIPTION:Stage: Group Stage | Group: F | ET: 4:00 PM | Venue time: 3:00
+ PM | Venue: AT&T Stadium\, Dallas\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:4ab84751286beae8@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260614T200000
+DTEND;TZID=America/Mexico_City:20260614T220000
+SUMMARY:M012: Sweden vs Tunisia
+LOCATION:Estadio BBVA\, Monterrey\, Mexico
+DESCRIPTION:Stage: Group Stage | Group: F | ET: 10:00 PM | Venue time:
+ 8:00 PM | Venue: Estadio BBVA\, Monterrey\, Mexico | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:ce96f069ee4c5fca@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260615T180000
+DTEND;TZID=America/New_York:20260615T200000
+SUMMARY:M013: Saudi Arabia vs Uruguay
+LOCATION:Hard Rock Stadium\, Miami\, United States
+DESCRIPTION:Stage: Group Stage | Group: H | ET: 6:00 PM | Venue time: 6:00
+ PM | Venue: Hard Rock Stadium\, Miami\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:391908e3c7538980@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260615T120000
+DTEND;TZID=America/New_York:20260615T140000
+SUMMARY:M014: Spain vs Cabo Verde
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, United States
+DESCRIPTION:Stage: Group Stage | Group: H | ET: 12:00 PM | Venue time:
+ 12:00 PM | Venue: Mercedes-Benz Stadium\, Atlanta\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3fe344ef3f0a8c@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260615T180000
+DTEND;TZID=America/Los_Angeles:20260615T200000
+SUMMARY:M015: Iran vs New Zealand
+LOCATION:SoFi Stadium\, Los Angeles\, United States
+DESCRIPTION:Stage: Group Stage | Group: G | ET: 9:00 PM | Venue time: 6:00
+ PM | Venue: SoFi Stadium\, Los Angeles\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:bcbeed1211777697@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260615T120000
+DTEND;TZID=America/Los_Angeles:20260615T140000
+SUMMARY:M016: Belgium vs Egypt
+LOCATION:Lumen Field\, Seattle\, United States
+DESCRIPTION:Stage: Group Stage | Group: G | ET: 3:00 PM | Venue time:
+ 12:00 PM | Venue: Lumen Field\, Seattle\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:6c7f625acd8bbb0b@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260616T150000
+DTEND;TZID=America/New_York:20260616T170000
+SUMMARY:M017: France vs Senegal
+LOCATION:MetLife Stadium\, New York/New Jersey\, United States
+DESCRIPTION:Stage: Group Stage | Group: I | ET: 3:00 PM | Venue time: 3:00
+ PM | Venue: MetLife Stadium\, New York/New Jersey\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7f0c2a5d4ad14@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260616T180000
+DTEND;TZID=America/New_York:20260616T200000
+SUMMARY:M018: Iraq vs Norway
+LOCATION:Gillette Stadium\, Boston\, United States
+DESCRIPTION:Stage: Group Stage | Group: I | ET: 6:00 PM | Venue time: 6:00
+ PM | Venue: Gillette Stadium\, Boston\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:e53d7d441572c48c@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260616T200000
+DTEND;TZID=America/Chicago:20260616T220000
+SUMMARY:M019: Argentina vs Algeria
+LOCATION:Arrowhead Stadium\, Kansas City\, United States
+DESCRIPTION:Stage: Group Stage | Group: J | ET: 9:00 PM | Venue time: 8:00
+ PM | Venue: Arrowhead Stadium\, Kansas City\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:6130370b933597f2@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260616T210000
+DTEND;TZID=America/Los_Angeles:20260616T230000
+SUMMARY:M020: Austria vs Jordan
+LOCATION:Levi's Stadium\, San Francisco Bay Area\, United States
+DESCRIPTION:Stage: Group Stage | Group: J | ET: 12:00 AM | Venue time:
+ 9:00 PM | Venue: Levi's Stadium\, San Francisco Bay Area\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:0eb7ed0d8f4a71ce@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Toronto:20260617T190000
+DTEND;TZID=America/Toronto:20260617T210000
+SUMMARY:M021: Ghana vs Panama
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Stage: Group Stage | Group: L | ET: 7:00 PM | Venue time: 7:00
+ PM | Venue: BMO Field\, Toronto\, Canada | Schedule details may change as
+ official match information is updated. | Check WorldCup2026Schedules.com
+ for the latest printable schedules and calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:995c53475790ec75@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260617T150000
+DTEND;TZID=America/Chicago:20260617T170000
+SUMMARY:M022: England vs Croatia
+LOCATION:AT&T Stadium\, Dallas\, United States
+DESCRIPTION:Stage: Group Stage | Group: L | ET: 4:00 PM | Venue time: 3:00
+ PM | Venue: AT&T Stadium\, Dallas\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb6e6d02b2ede19@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260617T120000
+DTEND;TZID=America/Chicago:20260617T140000
+SUMMARY:M023: Portugal vs Congo DR
+LOCATION:NRG Stadium\, Houston\, United States
+DESCRIPTION:Stage: Group Stage | Group: K | ET: 1:00 PM | Venue time:
+ 12:00 PM | Venue: NRG Stadium\, Houston\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef6a3952ffcea77@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260617T200000
+DTEND;TZID=America/Mexico_City:20260617T220000
+SUMMARY:M024: Uzbekistan vs Colombia
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Stage: Group Stage | Group: K | ET: 10:00 PM | Venue time:
+ 8:00 PM | Venue: Estadio Azteca\, Mexico City\, Mexico | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:c75e803d5e17f2b5@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260618T120000
+DTEND;TZID=America/New_York:20260618T140000
+SUMMARY:M025: Czechia vs South Africa
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, United States
+DESCRIPTION:Stage: Group Stage | Group: A | ET: 12:00 PM | Venue time:
+ 12:00 PM | Venue: Mercedes-Benz Stadium\, Atlanta\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:1acea71c778fe8e9@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260618T120000
+DTEND;TZID=America/Los_Angeles:20260618T140000
+SUMMARY:M026: Switzerland vs Bosnia and Herzegovina
+LOCATION:SoFi Stadium\, Los Angeles\, United States
+DESCRIPTION:Stage: Group Stage | Group: B | ET: 3:00 PM | Venue time:
+ 12:00 PM | Venue: SoFi Stadium\, Los Angeles\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:3a28ca097146178d@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Vancouver:20260618T150000
+DTEND;TZID=America/Vancouver:20260618T170000
+SUMMARY:M027: Canada vs Qatar
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Stage: Group Stage | Group: B | ET: 6:00 PM | Venue time: 3:00
+ PM | Venue: BC Place\, Vancouver\, Canada | Schedule details may change
+ as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:5810cb9d05dc0c94@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260618T190000
+DTEND;TZID=America/Mexico_City:20260618T210000
+SUMMARY:M028: Mexico vs Korea Republic
+LOCATION:Estadio Akron\, Guadalajara\, Mexico
+DESCRIPTION:Stage: Group Stage | Group: A | ET: 9:00 PM | Venue time: 7:00
+ PM | Venue: Estadio Akron\, Guadalajara\, Mexico | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:0e5e0c3fc012575d@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260619T210000
+DTEND;TZID=America/New_York:20260619T230000
+SUMMARY:M029: Brazil vs Haiti
+LOCATION:Lincoln Financial Field\, Philadelphia\, United States
+DESCRIPTION:Stage: Group Stage | Group: C | ET: 9:00 PM | Venue time: 9:00
+ PM | Venue: Lincoln Financial Field\, Philadelphia\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:083b8b70442cf3f0@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260619T180000
+DTEND;TZID=America/New_York:20260619T200000
+SUMMARY:M030: Scotland vs Morocco
+LOCATION:Gillette Stadium\, Boston\, United States
+DESCRIPTION:Stage: Group Stage | Group: C | ET: 6:00 PM | Venue time: 6:00
+ PM | Venue: Gillette Stadium\, Boston\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:1d342cb6a1525075@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260619T200000
+DTEND;TZID=America/Los_Angeles:20260619T220000
+SUMMARY:M031: Türkiye vs Paraguay
+LOCATION:Levi's Stadium\, San Francisco Bay Area\, United States
+DESCRIPTION:Stage: Group Stage | Group: D | ET: 11:00 PM | Venue time:
+ 8:00 PM | Venue: Levi's Stadium\, San Francisco Bay Area\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:265840fe8a07be19@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260619T120000
+DTEND;TZID=America/Los_Angeles:20260619T140000
+SUMMARY:M032: United States vs Australia
+LOCATION:Lumen Field\, Seattle\, United States
+DESCRIPTION:Stage: Group Stage | Group: D | ET: 3:00 PM | Venue time:
+ 12:00 PM | Venue: Lumen Field\, Seattle\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:8af01e41d63fdff4@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Toronto:20260620T160000
+DTEND;TZID=America/Toronto:20260620T180000
+SUMMARY:M033: Germany vs Côte d’Ivoire
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Stage: Group Stage | Group: E | ET: 4:00 PM | Venue time: 4:00
+ PM | Venue: BMO Field\, Toronto\, Canada | Schedule details may change as
+ official match information is updated. | Check WorldCup2026Schedules.com
+ for the latest printable schedules and calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:8271595fb59a889f@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260620T190000
+DTEND;TZID=America/Chicago:20260620T210000
+SUMMARY:M034: Ecuador vs Curaçao
+LOCATION:Arrowhead Stadium\, Kansas City\, United States
+DESCRIPTION:Stage: Group Stage | Group: E | ET: 8:00 PM | Venue time: 7:00
+ PM | Venue: Arrowhead Stadium\, Kansas City\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:a9432e7cba9eb9fd@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260620T120000
+DTEND;TZID=America/Chicago:20260620T140000
+SUMMARY:M035: Netherlands vs Sweden
+LOCATION:NRG Stadium\, Houston\, United States
+DESCRIPTION:Stage: Group Stage | Group: F | ET: 1:00 PM | Venue time:
+ 12:00 PM | Venue: NRG Stadium\, Houston\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:de8d3fcac2f399a9@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260620T220000
+DTEND;TZID=America/Mexico_City:20260621T000000
+SUMMARY:M036: Tunisia vs Japan
+LOCATION:Estadio BBVA\, Monterrey\, Mexico
+DESCRIPTION:Stage: Group Stage | Group: F | ET: 12:00 AM | Venue time:
+ 10:00 PM | Venue: Estadio BBVA\, Monterrey\, Mexico | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:61dabe87f7e2e6b1@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260621T180000
+DTEND;TZID=America/New_York:20260621T200000
+SUMMARY:M037: Uruguay vs Cabo Verde
+LOCATION:Hard Rock Stadium\, Miami\, United States
+DESCRIPTION:Stage: Group Stage | Group: H | ET: 6:00 PM | Venue time: 6:00
+ PM | Venue: Hard Rock Stadium\, Miami\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:e973514e9895e4ab@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260621T120000
+DTEND;TZID=America/New_York:20260621T140000
+SUMMARY:M038: Spain vs Saudi Arabia
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, United States
+DESCRIPTION:Stage: Group Stage | Group: H | ET: 12:00 PM | Venue time:
+ 12:00 PM | Venue: Mercedes-Benz Stadium\, Atlanta\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:fe71995011c68479@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260621T120000
+DTEND;TZID=America/Los_Angeles:20260621T140000
+SUMMARY:M039: Belgium vs Iran
+LOCATION:SoFi Stadium\, Los Angeles\, United States
+DESCRIPTION:Stage: Group Stage | Group: G | ET: 3:00 PM | Venue time:
+ 12:00 PM | Venue: SoFi Stadium\, Los Angeles\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:146dbd2de23fb2be@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Vancouver:20260621T180000
+DTEND;TZID=America/Vancouver:20260621T200000
+SUMMARY:M040: New Zealand vs Egypt
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Stage: Group Stage | Group: G | ET: 9:00 PM | Venue time: 6:00
+ PM | Venue: BC Place\, Vancouver\, Canada | Schedule details may change
+ as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5674da705b3466@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260622T200000
+DTEND;TZID=America/New_York:20260622T220000
+SUMMARY:M041: Norway vs Senegal
+LOCATION:MetLife Stadium\, New York/New Jersey\, United States
+DESCRIPTION:Stage: Group Stage | Group: I | ET: 8:00 PM | Venue time: 8:00
+ PM | Venue: MetLife Stadium\, New York/New Jersey\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:81a52927a044f573@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260622T170000
+DTEND;TZID=America/New_York:20260622T190000
+SUMMARY:M042: France vs Iraq
+LOCATION:Lincoln Financial Field\, Philadelphia\, United States
+DESCRIPTION:Stage: Group Stage | Group: I | ET: 5:00 PM | Venue time: 5:00
+ PM | Venue: Lincoln Financial Field\, Philadelphia\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:c96ea65b29639af8@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260622T120000
+DTEND;TZID=America/Chicago:20260622T140000
+SUMMARY:M043: Argentina vs Austria
+LOCATION:AT&T Stadium\, Dallas\, United States
+DESCRIPTION:Stage: Group Stage | Group: J | ET: 1:00 PM | Venue time:
+ 12:00 PM | Venue: AT&T Stadium\, Dallas\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:71d0fe2af81115ff@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260622T200000
+DTEND;TZID=America/Los_Angeles:20260622T220000
+SUMMARY:M044: Jordan vs Algeria
+LOCATION:Levi's Stadium\, San Francisco Bay Area\, United States
+DESCRIPTION:Stage: Group Stage | Group: J | ET: 11:00 PM | Venue time:
+ 8:00 PM | Venue: Levi's Stadium\, San Francisco Bay Area\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:8db5d3a35cee09e5@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260623T160000
+DTEND;TZID=America/New_York:20260623T180000
+SUMMARY:M045: England vs Ghana
+LOCATION:Gillette Stadium\, Boston\, United States
+DESCRIPTION:Stage: Group Stage | Group: L | ET: 4:00 PM | Venue time: 4:00
+ PM | Venue: Gillette Stadium\, Boston\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:53911c2f581b5fe2@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Toronto:20260623T190000
+DTEND;TZID=America/Toronto:20260623T210000
+SUMMARY:M046: Panama vs Croatia
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Stage: Group Stage | Group: L | ET: 7:00 PM | Venue time: 7:00
+ PM | Venue: BMO Field\, Toronto\, Canada | Schedule details may change as
+ official match information is updated. | Check WorldCup2026Schedules.com
+ for the latest printable schedules and calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:071f5f14b2335765@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260623T120000
+DTEND;TZID=America/Chicago:20260623T140000
+SUMMARY:M047: Portugal vs Uzbekistan
+LOCATION:NRG Stadium\, Houston\, United States
+DESCRIPTION:Stage: Group Stage | Group: K | ET: 1:00 PM | Venue time:
+ 12:00 PM | Venue: NRG Stadium\, Houston\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:52364c409d94ecd5@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260623T200000
+DTEND;TZID=America/Mexico_City:20260623T220000
+SUMMARY:M048: Colombia vs Congo DR
+LOCATION:Estadio Akron\, Guadalajara\, Mexico
+DESCRIPTION:Stage: Group Stage | Group: K | ET: 10:00 PM | Venue time:
+ 8:00 PM | Venue: Estadio Akron\, Guadalajara\, Mexico | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:4914d94b74150c29@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260624T180000
+DTEND;TZID=America/New_York:20260624T200000
+SUMMARY:M049: Scotland vs Brazil
+LOCATION:Hard Rock Stadium\, Miami\, United States
+DESCRIPTION:Stage: Group Stage | Group: C | ET: 6:00 PM | Venue time: 6:00
+ PM | Venue: Hard Rock Stadium\, Miami\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:4dda4a04ad1fd3a7@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260624T180000
+DTEND;TZID=America/New_York:20260624T200000
+SUMMARY:M050: Morocco vs Haiti
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, United States
+DESCRIPTION:Stage: Group Stage | Group: C | ET: 6:00 PM | Venue time: 6:00
+ PM | Venue: Mercedes-Benz Stadium\, Atlanta\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:1af51d90deb0fc48@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Vancouver:20260624T120000
+DTEND;TZID=America/Vancouver:20260624T140000
+SUMMARY:M051: Switzerland vs Canada
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Stage: Group Stage | Group: B | ET: 3:00 PM | Venue time:
+ 12:00 PM | Venue: BC Place\, Vancouver\, Canada | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:9f8d5472627defcf@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260624T120000
+DTEND;TZID=America/Los_Angeles:20260624T140000
+SUMMARY:M052: Bosnia and Herzegovina vs Qatar
+LOCATION:Lumen Field\, Seattle\, United States
+DESCRIPTION:Stage: Group Stage | Group: B | ET: 3:00 PM | Venue time:
+ 12:00 PM | Venue: Lumen Field\, Seattle\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:16b5e2982974cb48@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260624T190000
+DTEND;TZID=America/Mexico_City:20260624T210000
+SUMMARY:M053: Czechia vs Mexico
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Stage: Group Stage | Group: A | ET: 9:00 PM | Venue time: 7:00
+ PM | Venue: Estadio Azteca\, Mexico City\, Mexico | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:e1854a1ab701f243@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260624T190000
+DTEND;TZID=America/Mexico_City:20260624T210000
+SUMMARY:M054: South Africa vs Korea Republic
+LOCATION:Estadio BBVA\, Monterrey\, Mexico
+DESCRIPTION:Stage: Group Stage | Group: A | ET: 9:00 PM | Venue time: 7:00
+ PM | Venue: Estadio BBVA\, Monterrey\, Mexico | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:f1343b71eaadc4da@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260625T160000
+DTEND;TZID=America/New_York:20260625T180000
+SUMMARY:M055: Curaçao vs Côte d’Ivoire
+LOCATION:Lincoln Financial Field\, Philadelphia\, United States
+DESCRIPTION:Stage: Group Stage | Group: E | ET: 4:00 PM | Venue time: 4:00
+ PM | Venue: Lincoln Financial Field\, Philadelphia\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:fec47e53fe335d89@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260625T160000
+DTEND;TZID=America/New_York:20260625T180000
+SUMMARY:M056: Ecuador vs Germany
+LOCATION:MetLife Stadium\, New York/New Jersey\, United States
+DESCRIPTION:Stage: Group Stage | Group: E | ET: 4:00 PM | Venue time: 4:00
+ PM | Venue: MetLife Stadium\, New York/New Jersey\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:7dff5328aa3ba8e9@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260625T180000
+DTEND;TZID=America/Chicago:20260625T200000
+SUMMARY:M057: Japan vs Sweden
+LOCATION:AT&T Stadium\, Dallas\, United States
+DESCRIPTION:Stage: Group Stage | Group: F | ET: 7:00 PM | Venue time: 6:00
+ PM | Venue: AT&T Stadium\, Dallas\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:d8b44b89a9894880@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260625T180000
+DTEND;TZID=America/Chicago:20260625T200000
+SUMMARY:M058: Tunisia vs Netherlands
+LOCATION:Arrowhead Stadium\, Kansas City\, United States
+DESCRIPTION:Stage: Group Stage | Group: F | ET: 7:00 PM | Venue time: 6:00
+ PM | Venue: Arrowhead Stadium\, Kansas City\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:726932b5b6cb873f@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260625T190000
+DTEND;TZID=America/Los_Angeles:20260625T210000
+SUMMARY:M059: Türkiye vs United States
+LOCATION:SoFi Stadium\, Los Angeles\, United States
+DESCRIPTION:Stage: Group Stage | Group: D | ET: 10:00 PM | Venue time:
+ 7:00 PM | Venue: SoFi Stadium\, Los Angeles\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:de8b9421b504696c@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260625T190000
+DTEND;TZID=America/Los_Angeles:20260625T210000
+SUMMARY:M060: Paraguay vs Australia
+LOCATION:Levi's Stadium\, San Francisco Bay Area\, United States
+DESCRIPTION:Stage: Group Stage | Group: D | ET: 10:00 PM | Venue time:
+ 7:00 PM | Venue: Levi's Stadium\, San Francisco Bay Area\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:f2b6a2e9178ef8bd@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260626T150000
+DTEND;TZID=America/New_York:20260626T170000
+SUMMARY:M061: Norway vs France
+LOCATION:Gillette Stadium\, Boston\, United States
+DESCRIPTION:Stage: Group Stage | Group: I | ET: 3:00 PM | Venue time: 3:00
+ PM | Venue: Gillette Stadium\, Boston\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:9ed99cebe188c19c@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Toronto:20260626T150000
+DTEND;TZID=America/Toronto:20260626T170000
+SUMMARY:M062: Senegal vs Iraq
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Stage: Group Stage | Group: I | ET: 3:00 PM | Venue time: 3:00
+ PM | Venue: BMO Field\, Toronto\, Canada | Schedule details may change as
+ official match information is updated. | Check WorldCup2026Schedules.com
+ for the latest printable schedules and calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:ea549baa90cb6565@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260626T200000
+DTEND;TZID=America/Los_Angeles:20260626T220000
+SUMMARY:M063: Egypt vs Iran
+LOCATION:Lumen Field\, Seattle\, United States
+DESCRIPTION:Stage: Group Stage | Group: G | ET: 11:00 PM | Venue time:
+ 8:00 PM | Venue: Lumen Field\, Seattle\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:388b34b22171fd6c@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Vancouver:20260626T200000
+DTEND;TZID=America/Vancouver:20260626T220000
+SUMMARY:M064: New Zealand vs Belgium
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Stage: Group Stage | Group: G | ET: 11:00 PM | Venue time:
+ 8:00 PM | Venue: BC Place\, Vancouver\, Canada | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:cfef5250ca03b77a@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260626T190000
+DTEND;TZID=America/Chicago:20260626T210000
+SUMMARY:M065: Cabo Verde vs Saudi Arabia
+LOCATION:NRG Stadium\, Houston\, United States
+DESCRIPTION:Stage: Group Stage | Group: H | ET: 8:00 PM | Venue time: 7:00
+ PM | Venue: NRG Stadium\, Houston\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:bd7a9ab1b5d2e0da@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260626T180000
+DTEND;TZID=America/Mexico_City:20260626T200000
+SUMMARY:M066: Uruguay vs Spain
+LOCATION:Estadio Akron\, Guadalajara\, Mexico
+DESCRIPTION:Stage: Group Stage | Group: H | ET: 8:00 PM | Venue time: 6:00
+ PM | Venue: Estadio Akron\, Guadalajara\, Mexico | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:efa275e18b05946d@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260627T170000
+DTEND;TZID=America/New_York:20260627T190000
+SUMMARY:M067: Panama vs England
+LOCATION:MetLife Stadium\, New York/New Jersey\, United States
+DESCRIPTION:Stage: Group Stage | Group: L | ET: 5:00 PM | Venue time: 5:00
+ PM | Venue: MetLife Stadium\, New York/New Jersey\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:4f74d1ad0e5ccced@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260627T170000
+DTEND;TZID=America/New_York:20260627T190000
+SUMMARY:M068: Croatia vs Ghana
+LOCATION:Lincoln Financial Field\, Philadelphia\, United States
+DESCRIPTION:Stage: Group Stage | Group: L | ET: 5:00 PM | Venue time: 5:00
+ PM | Venue: Lincoln Financial Field\, Philadelphia\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:c9da374934834b59@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260627T210000
+DTEND;TZID=America/Chicago:20260627T230000
+SUMMARY:M069: Algeria vs Austria
+LOCATION:Arrowhead Stadium\, Kansas City\, United States
+DESCRIPTION:Stage: Group Stage | Group: J | ET: 10:00 PM | Venue time:
+ 9:00 PM | Venue: Arrowhead Stadium\, Kansas City\, United States |
+ Schedule details may change as official match information is updated. |
+ Check WorldCup2026Schedules.com for the latest printable schedules and
+ calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:14428cdb7d5b09df@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260627T210000
+DTEND;TZID=America/Chicago:20260627T230000
+SUMMARY:M070: Jordan vs Argentina
+LOCATION:AT&T Stadium\, Dallas\, United States
+DESCRIPTION:Stage: Group Stage | Group: J | ET: 10:00 PM | Venue time:
+ 9:00 PM | Venue: AT&T Stadium\, Dallas\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:b27014a7b3acccc3@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260627T193000
+DTEND;TZID=America/New_York:20260627T213000
+SUMMARY:M071: Colombia vs Portugal
+LOCATION:Hard Rock Stadium\, Miami\, United States
+DESCRIPTION:Stage: Group Stage | Group: K | ET: 7:30 PM | Venue time: 7:30
+ PM | Venue: Hard Rock Stadium\, Miami\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:30a9d78ac48e2595@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260627T193000
+DTEND;TZID=America/New_York:20260627T213000
+SUMMARY:M072: Congo DR vs Uzbekistan
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, United States
+DESCRIPTION:Stage: Group Stage | Group: K | ET: 7:30 PM | Venue time: 7:30
+ PM | Venue: Mercedes-Benz Stadium\, Atlanta\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:78d7c6e2dc02c113@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260628T120000
+DTEND;TZID=America/Los_Angeles:20260628T150000
+SUMMARY:M073: Group A Runner-up vs Group B Runner-up
+LOCATION:SoFi Stadium\, Los Angeles\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 3:00 PM | Venue time: 12:00 PM |
+ Venue: SoFi Stadium\, Los Angeles\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:64e22a7dbefb28e2@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260629T163000
+DTEND;TZID=America/New_York:20260629T193000
+SUMMARY:M074: Group E Winner vs Group A/B/C/D/F 3rd Place
+LOCATION:Gillette Stadium\, Boston\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 4:30 PM | Venue time: 4:30 PM |
+ Venue: Gillette Stadium\, Boston\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:a5937f59b445f482@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260629T190000
+DTEND;TZID=America/Mexico_City:20260629T220000
+SUMMARY:M075: Group F Winner vs Group C Runner-up
+LOCATION:Estadio BBVA\, Monterrey\, Mexico
+DESCRIPTION:Stage: Round of 32 | ET: 9:00 PM | Venue time: 7:00 PM |
+ Venue: Estadio BBVA\, Monterrey\, Mexico | Schedule details may change as
+ official match information is updated. | Check WorldCup2026Schedules.com
+ for the latest printable schedules and calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:bf008e86a7f5649c@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260629T120000
+DTEND;TZID=America/Chicago:20260629T150000
+SUMMARY:M076: Group C Winner vs Group F Runner-up
+LOCATION:NRG Stadium\, Houston\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 1:00 PM | Venue time: 12:00 PM |
+ Venue: NRG Stadium\, Houston\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:e604dea3caf4b3b1@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260630T170000
+DTEND;TZID=America/New_York:20260630T200000
+SUMMARY:M077: Group I Winner vs Group C/D/F/G/H 3rd Place
+LOCATION:MetLife Stadium\, New York/New Jersey\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 5:00 PM | Venue time: 5:00 PM |
+ Venue: MetLife Stadium\, New York/New Jersey\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:b7fb6f791d286ab2@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260630T120000
+DTEND;TZID=America/Chicago:20260630T150000
+SUMMARY:M078: Group E Runner-up vs Group I Runner-up
+LOCATION:AT&T Stadium\, Dallas\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 1:00 PM | Venue time: 12:00 PM |
+ Venue: AT&T Stadium\, Dallas\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:ac8156ef2dd8c0c8@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260630T190000
+DTEND;TZID=America/Mexico_City:20260630T220000
+SUMMARY:M079: Group A Winner vs Group C/E/F/H/I 3rd Place
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Stage: Round of 32 | ET: 9:00 PM | Venue time: 7:00 PM |
+ Venue: Estadio Azteca\, Mexico City\, Mexico | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:907b5e3eae0d7b10@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260701T120000
+DTEND;TZID=America/New_York:20260701T150000
+SUMMARY:M080: Group L Winner vs Group E/H/I/J/K 3rd Place
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 12:00 PM | Venue time: 12:00 PM |
+ Venue: Mercedes-Benz Stadium\, Atlanta\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:4e87c5331d588a90@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260701T170000
+DTEND;TZID=America/Los_Angeles:20260701T200000
+SUMMARY:M081: Group D Winner vs Group B/E/F/I/J 3rd Place
+LOCATION:Levi's Stadium\, San Francisco Bay Area\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 8:00 PM | Venue time: 5:00 PM |
+ Venue: Levi's Stadium\, San Francisco Bay Area\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:268dbb1877aafb25@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260701T130000
+DTEND;TZID=America/Los_Angeles:20260701T160000
+SUMMARY:M082: Group G Winner vs Group A/E/H/I/J 3rd Place
+LOCATION:Lumen Field\, Seattle\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 4:00 PM | Venue time: 1:00 PM |
+ Venue: Lumen Field\, Seattle\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:d045a08106946c95@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Toronto:20260702T190000
+DTEND;TZID=America/Toronto:20260702T220000
+SUMMARY:M083: Group K Runner-up vs Group L Runner-up
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Stage: Round of 32 | ET: 7:00 PM | Venue time: 7:00 PM |
+ Venue: BMO Field\, Toronto\, Canada | Schedule details may change as
+ official match information is updated. | Check WorldCup2026Schedules.com
+ for the latest printable schedules and calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:4d8dcc4d816598de@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260702T120000
+DTEND;TZID=America/Los_Angeles:20260702T150000
+SUMMARY:M084: Group H Winner vs Group J Runner-up
+LOCATION:SoFi Stadium\, Los Angeles\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 3:00 PM | Venue time: 12:00 PM |
+ Venue: SoFi Stadium\, Los Angeles\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:c83e29f9bc83145a@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Vancouver:20260702T200000
+DTEND;TZID=America/Vancouver:20260702T230000
+SUMMARY:M085: Group B Winner vs Group E/F/G/I/J 3rd Place
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Stage: Round of 32 | ET: 11:00 PM | Venue time: 8:00 PM |
+ Venue: BC Place\, Vancouver\, Canada | Schedule details may change as
+ official match information is updated. | Check WorldCup2026Schedules.com
+ for the latest printable schedules and calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:76c41490fabac33b@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260703T180000
+DTEND;TZID=America/New_York:20260703T210000
+SUMMARY:M086: Group J Winner vs Group H Runner-up
+LOCATION:Hard Rock Stadium\, Miami\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 6:00 PM | Venue time: 6:00 PM |
+ Venue: Hard Rock Stadium\, Miami\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:422da47c33412a96@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260703T203000
+DTEND;TZID=America/Chicago:20260703T233000
+SUMMARY:M087: Group K Winner vs Group D/E/I/J/L 3rd Place
+LOCATION:Arrowhead Stadium\, Kansas City\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 9:30 PM | Venue time: 8:30 PM |
+ Venue: Arrowhead Stadium\, Kansas City\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:bf024ea316d7e3e2@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260703T130000
+DTEND;TZID=America/Chicago:20260703T160000
+SUMMARY:M088: Group D Runner-up vs Group G Runner-up
+LOCATION:AT&T Stadium\, Dallas\, United States
+DESCRIPTION:Stage: Round of 32 | ET: 2:00 PM | Venue time: 1:00 PM |
+ Venue: AT&T Stadium\, Dallas\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:91419ef0c8799b9e@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260704T170000
+DTEND;TZID=America/New_York:20260704T200000
+SUMMARY:M089: Match 74 Winner vs Match 77 Winner
+LOCATION:Lincoln Financial Field\, Philadelphia\, United States
+DESCRIPTION:Stage: Round of 16 | ET: 5:00 PM | Venue time: 5:00 PM |
+ Venue: Lincoln Financial Field\, Philadelphia\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:68e436a33062cbb0@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260704T120000
+DTEND;TZID=America/Chicago:20260704T150000
+SUMMARY:M090: Match 73 Winner vs Match 75 Winner
+LOCATION:NRG Stadium\, Houston\, United States
+DESCRIPTION:Stage: Round of 16 | ET: 1:00 PM | Venue time: 12:00 PM |
+ Venue: NRG Stadium\, Houston\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:70beee8b9f88ce21@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260705T160000
+DTEND;TZID=America/New_York:20260705T190000
+SUMMARY:M091: Match 76 Winner vs Match 78 Winner
+LOCATION:MetLife Stadium\, New York/New Jersey\, United States
+DESCRIPTION:Stage: Round of 16 | ET: 4:00 PM | Venue time: 4:00 PM |
+ Venue: MetLife Stadium\, New York/New Jersey\, United States | Schedule
+ details may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:a9cc3052992c3ba1@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Mexico_City:20260705T180000
+DTEND;TZID=America/Mexico_City:20260705T210000
+SUMMARY:M092: Match 79 Winner vs Match 80 Winner
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Stage: Round of 16 | ET: 8:00 PM | Venue time: 6:00 PM |
+ Venue: Estadio Azteca\, Mexico City\, Mexico | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:a0f1717ae58f1c58@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260706T140000
+DTEND;TZID=America/Chicago:20260706T170000
+SUMMARY:M093: Match 83 Winner vs Match 84 Winner
+LOCATION:AT&T Stadium\, Dallas\, United States
+DESCRIPTION:Stage: Round of 16 | ET: 3:00 PM | Venue time: 2:00 PM |
+ Venue: AT&T Stadium\, Dallas\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:610e29c5776441c7@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260706T170000
+DTEND;TZID=America/Los_Angeles:20260706T200000
+SUMMARY:M094: Match 81 Winner vs Match 82 Winner
+LOCATION:Lumen Field\, Seattle\, United States
+DESCRIPTION:Stage: Round of 16 | ET: 8:00 PM | Venue time: 5:00 PM |
+ Venue: Lumen Field\, Seattle\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:b47426b184156b0b@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260707T120000
+DTEND;TZID=America/New_York:20260707T150000
+SUMMARY:M095: Match 86 Winner vs Match 88 Winner
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, United States
+DESCRIPTION:Stage: Round of 16 | ET: 12:00 PM | Venue time: 12:00 PM |
+ Venue: Mercedes-Benz Stadium\, Atlanta\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:d88cae7507eec78a@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Vancouver:20260707T130000
+DTEND;TZID=America/Vancouver:20260707T160000
+SUMMARY:M096: Match 85 Winner vs Match 87 Winner
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Stage: Round of 16 | ET: 4:00 PM | Venue time: 1:00 PM |
+ Venue: BC Place\, Vancouver\, Canada | Schedule details may change as
+ official match information is updated. | Check WorldCup2026Schedules.com
+ for the latest printable schedules and calendar downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:4a484783dc0eb9f6@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260709T160000
+DTEND;TZID=America/New_York:20260709T190000
+SUMMARY:M097: Match 89 Winner vs Match 90 Winner
+LOCATION:Gillette Stadium\, Boston\, United States
+DESCRIPTION:Stage: Quarter-finals | ET: 4:00 PM | Venue time: 4:00 PM |
+ Venue: Gillette Stadium\, Boston\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:e8259dc517a14242@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Los_Angeles:20260710T120000
+DTEND;TZID=America/Los_Angeles:20260710T150000
+SUMMARY:M098: Match 93 Winner vs Match 94 Winner
+LOCATION:SoFi Stadium\, Los Angeles\, United States
+DESCRIPTION:Stage: Quarter-finals | ET: 3:00 PM | Venue time: 12:00 PM |
+ Venue: SoFi Stadium\, Los Angeles\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:f0978e57d3008ba6@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260711T170000
+DTEND;TZID=America/New_York:20260711T200000
+SUMMARY:M099: Match 91 Winner vs Match 92 Winner
+LOCATION:Hard Rock Stadium\, Miami\, United States
+DESCRIPTION:Stage: Quarter-finals | ET: 5:00 PM | Venue time: 5:00 PM |
+ Venue: Hard Rock Stadium\, Miami\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:f4e1b04f9c89ba4b@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260711T200000
+DTEND;TZID=America/Chicago:20260711T230000
+SUMMARY:M100: Match 95 Winner vs Match 96 Winner
+LOCATION:Arrowhead Stadium\, Kansas City\, United States
+DESCRIPTION:Stage: Quarter-finals | ET: 9:00 PM | Venue time: 8:00 PM |
+ Venue: Arrowhead Stadium\, Kansas City\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:e7b4a21d1e77fba5@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/Chicago:20260714T140000
+DTEND;TZID=America/Chicago:20260714T170000
+SUMMARY:M101: Match 97 Winner vs Match 98 Winner
+LOCATION:AT&T Stadium\, Dallas\, United States
+DESCRIPTION:Stage: Semi-finals | ET: 3:00 PM | Venue time: 2:00 PM |
+ Venue: AT&T Stadium\, Dallas\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:8984f0be0b125027@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260715T150000
+DTEND;TZID=America/New_York:20260715T180000
+SUMMARY:M102: Match 99 Winner vs Match 100 Winner
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, United States
+DESCRIPTION:Stage: Semi-finals | ET: 3:00 PM | Venue time: 3:00 PM |
+ Venue: Mercedes-Benz Stadium\, Atlanta\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:cab8a47e35ce533f@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260718T170000
+DTEND;TZID=America/New_York:20260718T200000
+SUMMARY:M103: Match 101 Loser vs Match 102 Loser
+LOCATION:Hard Rock Stadium\, Miami\, United States
+DESCRIPTION:Stage: Third Place | ET: 5:00 PM | Venue time: 5:00 PM |
+ Venue: Hard Rock Stadium\, Miami\, United States | Schedule details may
+ change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+BEGIN:VEVENT
+UID:98349591dfedeb70@worldcup2026schedules.com
+DTSTAMP:20260519T130709Z
+DTSTART;TZID=America/New_York:20260719T150000
+DTEND;TZID=America/New_York:20260719T180000
+SUMMARY:M104: Match 101 Winner vs Match 102 Winner
+LOCATION:MetLife Stadium\, New York/New Jersey\, United States
+DESCRIPTION:Stage: Final | ET: 3:00 PM | Venue time: 3:00 PM | Venue:
+ MetLife Stadium\, New York/New Jersey\, United States | Schedule details
+ may change as official match information is updated. | Check
+ WorldCup2026Schedules.com for the latest printable schedules and calendar
+ downloads.
+URL:https://worldcup2026schedules.com/downloads
+END:VEVENT
+END:VCALENDAR
