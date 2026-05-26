@@ -49,3 +49,10 @@ Suggested attribution:
 This is an independent fan-maintained dataset. It is not affiliated with FIFA or any official tournament organizer.
 
 Match dates, times, venues, and participating teams may change. Always verify critical information against official tournament sources before travel, ticketing, broadcast, or commercial use.
+
+
+## Kaggle Dataset
+
+This dataset is also available on Kaggle for data users and analysts:
+
+https://www.kaggle.com/datasets/mjmotebaheri/world-cup-2026-match-schedule-data-csv-json-ics
